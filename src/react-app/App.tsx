@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello</h1>
+      <h1 style="text-align:center;">Hello</h1>
     </>
   );
 }
