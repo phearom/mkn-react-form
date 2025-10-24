@@ -6,9 +6,9 @@ function App() {
 
 
   return (
-    <>
-      <h1 style="text-align:center;">Hello</h1>
-    </>
+    <center>
+      <h1>Hello</h1>
+    </center>
   );
 }
 
